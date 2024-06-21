@@ -24,8 +24,8 @@ const myNull = null;
 console.log(myNull);
 
 // 7
-const answerPrompt = prompt("Your name: ");
-console.log(answerPrompt);
+const answerPrompt = prompt("Ваше ім'я: ");
+alert(`Вітаю ${answerPrompt}`);
 
 // 8
 const answerConfirm = confirm("Підтвердіть дію");
